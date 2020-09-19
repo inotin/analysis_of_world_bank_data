@@ -1,7 +1,7 @@
 def nth_power(number, power):
     """
     Text
-    Text 2
+    Bob added text here
     """
     return [i ** power for i in range(1,number)]
 
