@@ -3,6 +3,7 @@ def nth_power(number, power):
     Text
     Bob added text here
     Bob tagged v.1.1
+    fcom
     """
     return [i ** power for i in range(1,number)]
 
